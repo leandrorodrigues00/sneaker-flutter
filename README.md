@@ -41,7 +41,7 @@ Sneaker Flutter is a Flutter app designed for sneaker enthusiasts. You can explo
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/your-user/sneaker_flutter.git && cd sneaker_flutter
+$ git clone https://github.com/leandrorodrigues00/sneaker-flutter && cd sneaker_flutter
 ```
 
 **Follow the steps below**
