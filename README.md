@@ -4,17 +4,10 @@
 
 <p align="center">
 	<a href="#-about-the-project">About the project</a> •
-	<a href="#-Samples">Samples</a> •
 	<a href="#-technologies">Technologies</a> •
 	<a href="#-getting-started">Getting started</a> •
 	<a href="#-license">License</a>
 </p>
-
-## 👩‍💻 About the project
-
-Sneaker Flutter is a Flutter app designed for sneaker enthusiasts. You can explore different sneaker models, add them to your cart, view details, and manage your collection in a practical and intuitive way. The app features modern navigation, a friendly interface, and essential features for every sneakerhead.
-
-## 🧬 Samples
 
 | Intro Screen | Shop Screen | All Products |
 |---------|---------|---------|
@@ -24,6 +17,10 @@ Sneaker Flutter is a Flutter app designed for sneaker enthusiasts. You can explo
 |---------|---------|
 |    ![Intro Screen](./mockups/m4.png)     | ![Shop Screen](./mockups/m5.png)        |  
 
+
+## 👩‍💻 About the project
+
+Sneaker Flutter is a Flutter app designed for sneaker enthusiasts. You can explore different sneaker models, add them to your cart, view details, and manage your collection in a practical and intuitive way. The app features modern navigation, a friendly interface, and essential features for every sneakerhead.
 
 ## 🚀 Technologies
 
